@@ -1,0 +1,7 @@
+C:\Users\Akash Shritharan\source\repos\CSharpAssignments\CSharpAssignments\obj\Debug\CSharpAssignments.csprojAssemblyReference.cache
+C:\Users\Akash Shritharan\source\repos\CSharpAssignments\CSharpAssignments\obj\Debug\CSharpAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Akash Shritharan\source\repos\CSharpAssignments\CSharpAssignments\bin\Debug\CSharpAssignments.exe.config
+C:\Users\Akash Shritharan\source\repos\CSharpAssignments\CSharpAssignments\bin\Debug\CSharpAssignments.exe
+C:\Users\Akash Shritharan\source\repos\CSharpAssignments\CSharpAssignments\bin\Debug\CSharpAssignments.pdb
+C:\Users\Akash Shritharan\source\repos\CSharpAssignments\CSharpAssignments\obj\Debug\CSharpAssignments.exe
+C:\Users\Akash Shritharan\source\repos\CSharpAssignments\CSharpAssignments\obj\Debug\CSharpAssignments.pdb
