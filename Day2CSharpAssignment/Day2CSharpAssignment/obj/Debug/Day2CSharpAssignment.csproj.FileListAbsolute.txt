@@ -1,0 +1,7 @@
+C:\Users\Akash Shritharan\source\repos\Day2CSharpAssignment\Day2CSharpAssignment\bin\Debug\Day2CSharpAssignment.exe.config
+C:\Users\Akash Shritharan\source\repos\Day2CSharpAssignment\Day2CSharpAssignment\bin\Debug\Day2CSharpAssignment.exe
+C:\Users\Akash Shritharan\source\repos\Day2CSharpAssignment\Day2CSharpAssignment\bin\Debug\Day2CSharpAssignment.pdb
+C:\Users\Akash Shritharan\source\repos\Day2CSharpAssignment\Day2CSharpAssignment\obj\Debug\Day2CSharpAssignment.csprojAssemblyReference.cache
+C:\Users\Akash Shritharan\source\repos\Day2CSharpAssignment\Day2CSharpAssignment\obj\Debug\Day2CSharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Akash Shritharan\source\repos\Day2CSharpAssignment\Day2CSharpAssignment\obj\Debug\Day2CSharpAssignment.exe
+C:\Users\Akash Shritharan\source\repos\Day2CSharpAssignment\Day2CSharpAssignment\obj\Debug\Day2CSharpAssignment.pdb
